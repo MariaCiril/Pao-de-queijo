@@ -3,9 +3,14 @@ header{
     padding: 40px;
     font-size: 50px;
 }
-. chamada{
+
+.chamada{
     background-color: chartreuse;
     padding-bottom: 3em;
     padding-top: 2em;
     color: black;
+    display:flex;
+     justfy-content 
+
 }
+
